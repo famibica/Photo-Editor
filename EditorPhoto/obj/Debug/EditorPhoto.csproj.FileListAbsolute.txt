@@ -1,0 +1,23 @@
+c:\users\olga bica\documents\visual studio 2013\Projects\EditorPhoto\EditorPhoto\bin\Debug\EditorPhoto.exe.config
+c:\users\olga bica\documents\visual studio 2013\Projects\EditorPhoto\EditorPhoto\bin\Debug\EditorPhoto.exe
+c:\users\olga bica\documents\visual studio 2013\Projects\EditorPhoto\EditorPhoto\bin\Debug\EditorPhoto.pdb
+c:\users\olga bica\documents\visual studio 2013\Projects\EditorPhoto\EditorPhoto\obj\Debug\EditorPhoto.csprojResolveAssemblyReference.cache
+c:\users\olga bica\documents\visual studio 2013\Projects\EditorPhoto\EditorPhoto\obj\Debug\EditorPhoto.Form1.resources
+c:\users\olga bica\documents\visual studio 2013\Projects\EditorPhoto\EditorPhoto\obj\Debug\EditorPhoto.Properties.Resources.resources
+c:\users\olga bica\documents\visual studio 2013\Projects\EditorPhoto\EditorPhoto\obj\Debug\EditorPhoto.csproj.GenerateResource.Cache
+c:\users\olga bica\documents\visual studio 2013\Projects\EditorPhoto\EditorPhoto\obj\Debug\EditorPhoto.exe
+c:\users\olga bica\documents\visual studio 2013\Projects\EditorPhoto\EditorPhoto\obj\Debug\EditorPhoto.pdb
+C:\Users\Olga Bica\Desktop\EditorPhoto\EditorPhoto\bin\Debug\EditorPhoto.exe.config
+C:\Users\Olga Bica\Desktop\EditorPhoto\EditorPhoto\obj\Debug\EditorPhoto.exe
+C:\Users\Olga Bica\Desktop\EditorPhoto\EditorPhoto\obj\Debug\EditorPhoto.pdb
+C:\Users\Matheus\Desktop\EditorPhoto\EditorPhoto\bin\Debug\EditorPhoto.exe.config
+C:\Users\Matheus\Desktop\EditorPhoto\EditorPhoto\obj\Debug\EditorPhoto.exe
+C:\Users\Matheus\Desktop\EditorPhoto\EditorPhoto\obj\Debug\EditorPhoto.pdb
+C:\Users\Matheus\Desktop\EditorPhoto\EditorPhoto\bin\Debug\EditorPhoto.exe
+C:\Users\Matheus\Desktop\EditorPhoto\EditorPhoto\bin\Debug\EditorPhoto.pdb
+C:\Users\Matheus\Desktop\EditorPhoto\EditorPhoto\obj\Debug\EditorPhoto.csprojResolveAssemblyReference.cache
+C:\Users\Matheus\Desktop\EditorPhoto\EditorPhoto\obj\Debug\EditorPhoto.Form1.resources
+C:\Users\Matheus\Desktop\EditorPhoto\EditorPhoto\obj\Debug\EditorPhoto.Properties.Resources.resources
+C:\Users\Matheus\Desktop\EditorPhoto\EditorPhoto\obj\Debug\EditorPhoto.csproj.GenerateResource.Cache
+C:\Users\Matheus\Desktop\EditorPhoto\EditorPhoto\obj\Debug\EditorPhoto.Form2.resources
+C:\Users\Matheus\Desktop\EditorPhoto\EditorPhoto\bin\Debug\ImageProcessing.pdb
